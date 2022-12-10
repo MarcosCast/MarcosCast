@@ -30,10 +30,8 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 #
       
 <div align='center'>
-<a height="140em" href="http://www.github.com/MarcosCast"><img src="https://github-readme-streak-stats.herokuapp.com/?       user=MarcosCast&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+<a height="140em" href="http://www.github.com/MarcosCast"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCast&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
 <!--
 **MarcosCast/MarcosCast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -34,7 +34,7 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <img src="./images/linkedin.svg" width="32" height="32" />
 </a>
 <a href="https://www.instagram.com/ss_castro/" target="_blank" rel="noreferrer">
-<img src="./images/instagram.svg" width="32" height="32" />
+<img src="./images/instagram.png" width="32" height="32" />
 </a>
 <a href="mailto:marcos.ortsac@gmail.com" target="_blank" rel="noreferrer">
 <img src="./images/gmail.svg" width="32" height="32" />

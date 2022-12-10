@@ -31,13 +31,13 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <div align='center'>
 
 <a href="https://www.linkedin.com/in/marcos--castro/" target="_blank" rel="noreferrer">
-<img src="./images/icons8-linkedin.svg" width="32" height="32" />
+<img src="./images/linkedin.svg" width="32" height="32" />
 </a>
 <a href="https://www.instagram.com/ss_castro/" target="_blank" rel="noreferrer">
 <img src="./images/instagram.svg" width="32" height="32" />
 </a>
 <a href="mailto:marcos.ortsac@gmail.com" target="_blank" rel="noreferrer">
-<img src="./images/outlook-2019.svg" width="32" height="32" />
+<img src="./images/gmail.svg" width="32" height="32" />
 </a>
 </div>
       

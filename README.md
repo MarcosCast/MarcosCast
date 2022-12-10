@@ -1,8 +1,8 @@
-### Hi there 👋
+### Olá 👋
 
-# Olá, meu nome é [Marcos Samuel Santos Castro](https://www.linkedin.com/in/marcos--castro/)
+# Meu nome é [Marcos Samuel Santos Castro](https://www.linkedin.com/in/marcos--castro/)
 
-## seja muito bem-vindo
+## Seja muito bem-vindo(a) a minha página
 
 Sou desenvolvedor focado no Front-End, no momento desenvolvendo em React.js.
 

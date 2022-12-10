@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Olá, meu nome é [Marcos Samuel Santos Castro](https://www.linkedin.com/in/marcos--castro/)
+
+## seja muito bem-vindo
+
+Sou desenvolvedor focado no Front-End, no momento desenvolvendo em React.js.
+
+Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolvimento de Sistemas, adoro ler e estudar, procurando sempre me aperfeiçoar na minha área e aprender novas tecnologias. 
+
 <!--
 **MarcosCast/MarcosCast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

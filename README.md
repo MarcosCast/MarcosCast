@@ -12,13 +12,13 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosCast&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="350" alt="coding-time" src="./images/code.gif" autoplay loop>
+    <img align="left" height="250" alt="coding-time" src="./images/code.gif" autoplay loop>
     <h1 align="center">Minhas Skill's <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

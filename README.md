@@ -11,7 +11,7 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 ## :chart_with_upwards_trend: Minhas estatísticas
 
 <div align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=MarcosCast&row=1&column=6&theme=react-dark&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MarcosCast&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15"/>
   </div>
   <br />
   

@@ -4,9 +4,27 @@
 
 ## Seja muito bem-vindo(a) a minha página
 
-Sou desenvolvedor focado no Front-End, no momento desenvolvendo em React.js.
+Sou desenvolvedor Full-Stack, no momento focado em Next.js.
 
 Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolvimento de Sistemas, adoro ler e estudar, procurando sempre me aperfeiçoar na minha área e aprender novas tecnologias. 
+
+<div align="center" >
+<img src="https://github-profile-trophy.vercel.app/?username=MarcosCast&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  <br />
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcosCast&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosCast&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
 
 ## :chart_with_upwards_trend: Minhas estatísticas
 <div>

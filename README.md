@@ -9,7 +9,7 @@ Sou desenvolvedor Full-Stack, no momento focado em Next.js.
 Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolvimento de Sistemas, adoro ler e estudar, procurando sempre me aperfeiçoar na minha área e aprender novas tecnologias. 
 
 <div align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=MarcosCast&row=1&column=6&theme=github_dark&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MarcosCast&row=1&column=6&theme=react-dark&margin-w=15&margin-h=15"/>
   </div>
   <br />
 

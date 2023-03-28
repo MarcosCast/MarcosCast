@@ -14,8 +14,10 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <img src="https://github-profile-trophy.vercel.app/?username=MarcosCast&row=1&column=6&theme=react-dark&margin-w=15&margin-h=15"/>
   </div>
   <br />
+  
+  <!--
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
 <!--
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcosCast&bg_color=blue&color=white&line=000000&point=blue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
@@ -26,7 +28,7 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <div>
   
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcosCast&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=github"/>
 </div>
 <br>
 

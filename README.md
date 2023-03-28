@@ -28,7 +28,7 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <div>
   
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcosCast&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=github"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=github-dark"/>
 </div>
 <br>
 

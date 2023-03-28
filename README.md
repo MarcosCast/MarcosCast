@@ -22,13 +22,13 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <!--
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcosCast&bg_color=blue&color=white&line=000000&point=blue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosCast&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosCast&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosCast&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosCast&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 <div>
   
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcosCast&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=github-dark"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcosCast&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCast&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 

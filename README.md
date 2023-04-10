@@ -4,7 +4,7 @@
 
 ## Seja muito bem-vindo(a) a minha página
 
-Sou desenvolvedor Full-Stack, no momento focado em Next.js.
+Sou desenvolvedor Full-Stack, no momento focado em Python.
 
 Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolvimento de Sistemas, adoro ler e estudar, procurando sempre me aperfeiçoar na minha área e aprender novas tecnologias. 
 

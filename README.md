@@ -2,7 +2,7 @@
 
 Bem-vindo(a) à minha página no GitHub!
 
-Sou um desenvolvedor Full-Stack com foco em PHP e também gerencio projetos em Python, React e TypeScript. Tenho 27 anos e sou apaixonado por tecnologia desde criança. Atualmente, utilizo PostgreSQL como banco de dados principal nos projetos que lidero. Sou graduado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e aprender novas tecnologias.
+Sou um desenvolvedor Full-Stack trabalhando principalmente em PHP e também gerencio projetos em Python, React e TypeScript. Tenho 27 anos e sou apaixonado por tecnologia desde criança. Atualmente, utilizo PostgreSQL como banco de dados principal nos projetos que lidero. Sou graduado em Análise e Desenvolvimento de Sistemas e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e aprender novas tecnologias.
 
 ## 📊 Minhas Estatísticas
 

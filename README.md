@@ -17,7 +17,7 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <!--
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcosCast&bg_color=blue&color=white&line=000000&point=blue&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosCast&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcosCast&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosCast&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |

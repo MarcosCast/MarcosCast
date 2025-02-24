@@ -14,8 +14,6 @@ Tenho 25 anos e amo tecnologia desde criança. Graduando em Análise e Desenvolv
 <img src="https://github-profile-trophy.vercel.app/?username=MarcosCast&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15"/>
   </div>
   <br />
-<!--
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosCast&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
